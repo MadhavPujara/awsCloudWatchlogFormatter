@@ -54,3 +54,6 @@ console.log(jsonString);
 //Making a JSON Object for Logging
 let jsonLog = JSON.stringify(dataObject, undefined, 2);
 console.log(jsonLog);
+
+alert(`JSON
+${jsonString}`);
